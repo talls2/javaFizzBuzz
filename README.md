@@ -17,3 +17,4 @@ FizzBuzz (inputs required) in Java
     This is a function responsable for converting multiples of the number 3 on 'fizz', multiples of 5 on 'buzz' and when both, 'fizzbuzz'. 
     Non divisible numbers will be returned normaly
   
+![1_xFg8l5zDLnYu_5UgnNIcCA](https://user-images.githubusercontent.com/36342788/185253881-aba2cd71-5e4b-4106-bcf8-2f848fa7f816.png)
