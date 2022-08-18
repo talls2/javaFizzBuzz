@@ -6,7 +6,7 @@ public class FizzBuzz {
     public static void exec(){
         Scanner input = new Scanner(System.in);
         String n;
-        System.out.println("Enter a integer number");
+        System.out.println("Enter a integer number to play");
         int t = input.nextInt();
 
         if(t % 3 == 0 && t % 5 == 0){

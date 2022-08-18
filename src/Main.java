@@ -1,5 +1,6 @@
 
 
+import static executor.AutoFizzBuzz.autoexec;
 import static executor.FizzBuzz.exec;
 
   /*
@@ -13,6 +14,8 @@ import static executor.FizzBuzz.exec;
 
 public class Main {
     public static void main(String[] args) {
-    exec();
+        autoexec();
+        exec();
+
     }
 }
